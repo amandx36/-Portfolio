@@ -45,7 +45,7 @@ export const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-base sm:text-lg text-gray-400 my-3 sm:my-4 max-w-[500px] mx-auto md:mx-0"
         >
-          I&apos;m a Full Stack Software Engineer specializing in building modern, data-driven applications with the perfect mix of Full Stack, Machine Learning, and DevOps engineering.
+         I specialize in creating modern, data-driven web applications that combine Full Stack development, Machine Learning, and DevOps engineering.”
         </motion.p>
 
         {/* Call-to-Action Button */}
